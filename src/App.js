@@ -19,7 +19,7 @@ function App() {
   if (loading) {
     return (
       <section className='section loading'>
-        <h1>Loading...</h1>
+        <h1>Loading... 2</h1>
       </section>
     );
   }
